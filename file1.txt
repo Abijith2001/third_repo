@@ -1,3 +1,4 @@
 Hi this is just some random text, just to check if git is working properly.
 I appended some data, this is on 2nd line.
 I added some more data to the 3rd line, just to check if branch (branch1) is working properly
+Child2 added some data
